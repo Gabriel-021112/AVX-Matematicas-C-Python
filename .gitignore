@@ -1,0 +1,36 @@
+
+# Bibliotecas compartidas
+*.so
+*.dll
+*.dylib
+
+# Archivos compilados
+*.o
+*.a
+*.out
+*.exe
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Archivos de editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
